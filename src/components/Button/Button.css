@@ -1,0 +1,4 @@
+/* Estilo alternativo para todos los botones cuando esta hoja se importa globalmente */
+button {
+  background-color: red;
+}
